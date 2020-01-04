@@ -81,28 +81,37 @@
 
 
 ==========================================
-8.
+8.The process of developing class diagrams :
+  - Types of models
+  - Independently Between system domain Model and System model
 ==========================================
+#b1 --> 226
+#q\a
 
 
 ==========================================
-9.
+9.Desirable Characteristics of a Design
 ==========================================
-
-
+#b2 --> 80
+#resources : 
+1- https://guifroes.com/clever-code-is-bad/
 ==========================================
-10.
+10.Levels of Design
 ==========================================
-
-==========================================
-11.
-==========================================
-
+#b2 --> 82
 
 ==========================================
-12.
+11.Level 1: Software System
 ==========================================
+#b2 --> 82
 
+==========================================
+12.Level 2: Division into Subsystems or Packages
+  - The major goals from this activity
+  - good vs bad subsystems
+  - how to make the connections easy to understand and maintain
+==========================================
+#b2 --> 82
 
 ==========================================
 13.
