@@ -80,12 +80,23 @@
 #q\a
 
 
+######################################################################
+The process of developing class diagrams :
+######################################################################
+
 ==========================================
-8.The process of developing class diagrams :
-  - Types of models
+8.- Types of models or classes
   - Independently Between system domain Model and System model
 ==========================================
 #b1 --> 226
 #q\a
+
+===========================================
+9.A suggested sequence of activities
+  - order of identifiy classes - operations - data
+============================================
+#b1 --> 228
+#q\a
+
 
 
