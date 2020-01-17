@@ -98,5 +98,11 @@ The process of developing class diagrams :
 #b1 --> 228
 #q\a
 
-
+============================================
+10.- Identifying classes
+   - importance of Reuse
+   - A simple technique for discovering the initial set of domain classes
+=============================================
+#b1 --> 229
+#q\a
 
