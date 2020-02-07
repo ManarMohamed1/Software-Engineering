@@ -44,6 +44,8 @@
         -  aggregations
         -  composition
         -  aggregations to be drawn as a hierarchy
+   - IMPORTANT NOTE : 
+      about be less restrictive so as to increase the flexibility of the system as general concept.
 ==========================================
 #b1 --> 200
 #q\a
@@ -99,10 +101,19 @@ The process of developing class diagrams :
 #q\a
 
 ============================================
-10.- Identifying classes
+10.- How To Identifying classes
    - importance of Reuse
    - A simple technique for discovering the initial set of domain classes
+   - the Airline system Example
 =============================================
 #b1 --> 229
 #q\a
 
+
+=============================================
+11.Identifying associations and attributes
+   - how to start ?
+   - Tips about identifying and specifying valid associations
+=============================================
+#b1 --> 232
+#q\a
