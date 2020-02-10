@@ -114,6 +114,19 @@ The process of developing class diagrams :
 11.Identifying associations and attributes
    - how to start ?
    - Tips about identifying and specifying valid associations
+   - - Airline system class diagram after adding associations and attributes
 =============================================
 #b1 --> 232
+#q\a
+
+
+=============================================
+12.Identifying generalizations and interfaces
+   - There are two ways to identify generalizations 
+   - To use the bottom-up approach of generalizations 
+   - Sometimes the common features do not have the same name
+   - when to use <<interfaces>>
+   - Airline system class diagram after adding a generalization
+=============================================
+#b1 --> 235
 #q\a
