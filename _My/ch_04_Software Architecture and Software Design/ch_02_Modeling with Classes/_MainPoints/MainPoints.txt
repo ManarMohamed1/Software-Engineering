@@ -130,3 +130,11 @@ The process of developing class diagrams :
 =============================================
 #b1 --> 235
 #q\a
+
+
+===================================================
+13.Allocating responsibilities to classes
+   - Tips about How to Allocating responsibilities to classes
+===================================================
+#b1 --> 235
+#q\a
