@@ -135,6 +135,9 @@ The process of developing class diagrams :
 ===================================================
 13.Allocating responsibilities to classes
    - Tips about How to Allocating responsibilities to classes
+   - RC (Class–Responsibility–Collaboration) cards.
+   - Identifying operations
+   - Airline system class diagram after adding responsibilities
 ===================================================
 #b1 --> 235
 #q\a
